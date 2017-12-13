@@ -82,6 +82,10 @@ To learn more:
 
 - https://github.com/presidentbeef/brakeman
 
+To “have fun injecting SQL into a Ruby on Rails application”:
+
+- https://github.com/presidentbeef/inject-some-sql
+
 ### Bundler-audit
 
 > “Patch-level verification for Bundler. Looks for security vulnerabilities in dependencies.”.
