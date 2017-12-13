@@ -51,7 +51,7 @@ Ruby & Rails style guides:
 
 - `--group`: “group and sort by class.”
 - `--all`: “display all flog results, not top 60%.”
-- `--extended`: “put file:line on a
+- `--extended`: “put file:line on a separate line (for rubymine & friends).”
 
 To learn more:
 
@@ -68,8 +68,9 @@ To learn more:
 
 To learn more:
 
-- https://github.com/troessner/reek (README links to blog posts and talk)
+- https://github.com/troessner/reek (README includes links to blog posts and talk)
 - [“Reek Driven Development”](https://github.com/troessner/reek/blob/master/docs/Reek-Driven-Development.md)
+
 
 ### Brakeman
 
