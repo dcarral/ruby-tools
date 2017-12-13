@@ -69,6 +69,7 @@ To learn more:
 To learn more:
 
 - https://github.com/troessner/reek (README includes links to blog posts and talk)
+- https://github.com/troessner/reek/blob/master/docs/Code-Smells.md
 - [“Reek Driven Development”](https://github.com/troessner/reek/blob/master/docs/Reek-Driven-Development.md)
 
 
