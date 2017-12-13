@@ -19,7 +19,8 @@ __Note:__ _WIP_ (“work in progress”): this repository is expected to receive
 
 - (Web) [eXtreme Programming](http://extremeprogramming.org)
 - (Article) [Deciphering Ruby Code Metrics](https://codeclimate.com/blog/deciphering-ruby-code-metrics/)
-- (Talk) [Perusing the Rails Source Code - A Beginners Guide](https://www.youtube.com/watch?v=Q_MpGRfnY5s) by Alex Kitchens @ RailsConf 2017.
+- (Talk) [Perusing the Rails Source Code - A Beginners Guide](https://www.youtube.com/watch?v=Q_MpGRfnY5s), by Alex Kitchens @ RailsConf 2017.
+- (Talk) [Rules](https://youtu.be/npOGOmkxuio), by Sandi Metz @ Baruco 2013
 
 ## Notes on tools
 
