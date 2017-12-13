@@ -74,7 +74,9 @@ To learn more:
 
 > “A static analysis security vulnerability scanner for Ruby on Rails applications”.
 
-- `--rails5`
+- `--checks`: “list all available vulnerability checks.”
+- `--run-all-checks`: “run all default and optional checks.”
+- `--rails3`, `--rails4`, `--rails5`: “force Rails X mode.”
 
 To learn more:
 
