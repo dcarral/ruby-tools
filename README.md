@@ -6,14 +6,22 @@ This is a list of resources and notes provided as companion material for the ses
 
 __Note:__ _WIP_ (“work in progress”): this repository is expected to receive relevant content updates during next weeks. Stay tuned ;)
 
-## Books
+## Resources
+
+### Books
 
 - [eXtreme Programming explained: embrace change](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658), by Kent Beck.
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas.
 - [Book: Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman, 2009](https://www.amazon.de/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) by Dave Hoover and Adewale Oshineye.
 - [99 bottles of OOP](https://www.sandimetz.com/99bottles/), by Sandi Metz & Katrina Owen.
 
-## Tools
+### Other resources
+
+- (Web) [eXtreme Programming](http://extremeprogramming.org)
+- (Article) [Deciphering Ruby Code Metrics](https://codeclimate.com/blog/deciphering-ruby-code-metrics/)
+- (Talk) [Perusing the Rails Source Code - A Beginners Guide](https://www.youtube.com/watch?v=Q_MpGRfnY5s) by Alex Kitchens @ RailsConf 2017.
+
+## Notes on tools
 
 ### RuboCop
 
