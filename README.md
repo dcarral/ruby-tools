@@ -135,6 +135,7 @@ https://travis-ci.org/
 ### Code Climate
 
 https://codeclimate.com/product
+https://docs.codeclimate.com/v1.0/docs/getting-started-team-adoption
 
 ### Danger
 
