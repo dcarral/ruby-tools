@@ -130,14 +130,14 @@ To learn more:
 
 ### Travis
 
-https://travis-ci.org/
+- https://travis-ci.org/
 
 ### Code Climate
 
-https://codeclimate.com/product
-https://docs.codeclimate.com/v1.0/docs/getting-started-team-adoption
+- https://codeclimate.com/product
+- https://docs.codeclimate.com/v1.0/docs/getting-started-team-adoption
 
 ### Danger
 
-https://github.com/danger/danger
-http://danger.systems
+- https://github.com/danger/danger
+- http://danger.systems
