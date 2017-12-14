@@ -31,6 +31,7 @@ __Note:__ _WIP_ (“work in progress”): this repository is expected to receive
 - Common (team/company wide) master file. Tweaks proposed with pull requests.
 - Automatically fixing offenses: `--auto-correct`. Be careful! ;)
 - Integrating in legacy codebases: `--auto-gen-config`.
+- Selectively running cops: `--only`, `--only-guide-cops`.
 - Excluding concrete cops: per line / per file.
 - Rails-specific support.
 - Integrable with development workflows (local, CI...).
