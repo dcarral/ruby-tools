@@ -97,6 +97,8 @@ To check out:
 
 - `--checks`: “list all available vulnerability checks.”
 - `--run-all-checks`: “run all default and optional checks.”
+- `--ignore-config IGNOREFILE`: “use configuration to ignore warnings.”
+- `--interactive-ignore`: “interactively ignore warnings.”
 - `--rails3`, `--rails4`, `--rails5`: “force Rails X mode.”
 
 To learn more:
