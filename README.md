@@ -12,6 +12,12 @@ In addition to this `README`, here you can find:
 
 Thank you *mindmatters* & *Cabify* for hosting this community events ;)
 
+## Abstract
+
+There are a myriad of open-source tools which can help us in our day-a-day coding activities. Many of them, however, are unknown or rarely used by most professional software developers.
+
+During this session we're gonna walk through several Ruby tools, covering interesting configuration options and some tips & tricks on how to incorporate them into our development workflow.
+
 ## Resources
 
 ### Books
