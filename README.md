@@ -1,14 +1,14 @@
 # Tools, tools everywhere
 
-Provided as companion material for the session [“Tools, tools everywhere”](http://hamburg.onruby.de/topics/tools-tools-everywhere-571), delivered at:
+Companion material for the session [“Tools, tools everywhere”](http://hamburg.onruby.de/topics/tools-tools-everywhere-571), so far delivered at:
 
 - [Ruby User Group Hamburg](http://hamburg.onruby.de/) (12-13-2017).
 - [Ruby User Group Madrid](http://madridrb.com) (01-04-2018)
 
-In addition to this `README` (resources & notes), the repository contains:
+In addition to this `README` including bibliographical resources and brief notes about tools, the repository also contains:
 
-- Slidedecks (see `./slides`)
-- Image locations & credits (see `./images.md`)
+- Slidedecks (`./slides`)
+- Image locations & credits (`./images.md`)
 
 Thank you *mindmatters* & *Cabify* for hosting this community events ;)
 
