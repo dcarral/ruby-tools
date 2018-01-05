@@ -5,7 +5,7 @@ Companion material for the session [“Tools, tools everywhere”](http://hambur
 - [Ruby User Group Hamburg](http://hamburg.onruby.de/) (12-13-2017).
 - [Ruby User Group Madrid](http://madridrb.com) (01-04-2018)
 
-In addition to this `README` including bibliographical resources and brief notes about tools, the repository also contains:
+In addition to this `README`, here you can find:
 
 - Slidedecks (`./slides`)
 - Image locations & credits (`./images.md`)
