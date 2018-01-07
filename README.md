@@ -1,5 +1,7 @@
 # *“Tools, tools everywhere”*
 
+Andrea dice hola.
+
 Hi, I'm the living repository provided as companion material to the talk *“Tools, tools everywhere”*, so far delivered at:
 
 - *[Ruby User Group Madrid](http://www.madridrb.com/topics/tools-tools-everywhere-573)* @ *Cabify* (January 4th, 2018)
