@@ -1,22 +1,15 @@
-# Tools, tools everywhere
+# *“Tools, tools everywhere”*
 
-Companion material for the session [“Tools, tools everywhere”](http://hamburg.onruby.de/topics/tools-tools-everywhere-571), so far delivered at:
+Hi, I'm the living repository provided as companion material to the talk *“Tools, tools everywhere”*, so far delivered at:
 
-- [Ruby User Group Hamburg](http://hamburg.onruby.de/) (12-13-2017).
-- [Ruby User Group Madrid](http://madridrb.com) (01-04-2018)
+- *[Ruby User Group Madrid](http://www.madridrb.com/topics/tools-tools-everywhere-573)* @ *Cabify* (January 4th, 2018)
+- *[Ruby User Group Hamburg](http://hamburg.onruby.de/topics/tools-tools-everywhere-571)* @ *mindmatters* (December 12th, 2017)
 
-In addition to this `README`, here you can find:
+## Talk description
 
-- Slidedecks (`./slides`)
-- Image locations & credits (`./images.md`)
+“There are a myriad of open-source tools which can help us in our day-a-day coding activities.  Most of them, however, are unknown or rarely used by most developers.
 
-Thank you *mindmatters* & *Cabify* for hosting this community events ;)
-
-## Abstract
-
-There are a myriad of open-source tools which can help us in our day-a-day coding activities. Many of them, however, are unknown or rarely used by most professional software developers.
-
-During this session we're gonna walk through several Ruby tools, covering interesting configuration options and some tips & tricks on how to incorporate them into our development workflow.
+During this session we walk through some (Ruby) tools, covering interesting configuration options and discussing ideas on how to incorporate them into our development workflow.”
 
 ## Resources
 
