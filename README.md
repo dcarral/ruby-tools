@@ -59,6 +59,11 @@ Ruby & Rails style guides:
 - https://github.com/bbatsov/ruby-style-guide
 - https://github.com/bbatsov/rails-style-guide
 
+Related with metrics after using `--auto-gen-config`:
+
+- https://github.com/bbatsov/rubocop/issues/5422#issuecomment-356258481 (Jan 9, 2018)
+- https://github.com/bbatsov/rubocop/pull/5371 (Dec 31, 2017)
+
 ### Flog
 
 > “Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.”
