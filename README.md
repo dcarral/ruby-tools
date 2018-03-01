@@ -128,6 +128,7 @@ To check out:
 To learn more:
 
 - https://github.com/rubysec/bundler-audit
+- https://github.com/rubysec/ruby-advisory-db
 
 ### Flay
 
