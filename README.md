@@ -86,7 +86,8 @@ To learn more:
 
 To check out:
 
-- `--sort-by-issue-count`: “sort by "issue-count", listing the "smelliest" files first.”
+- `--sort-by smelliness`: “sort by smelliness (number of detected code smells), listing the ‘smelliest’ files first.”
+- `--todo`: “generate a todo list.”
 - `--single-line`: “show IDE-compatible single-line-per-warning.”
 - Rails-specific configuration: https://github.com/troessner/reek#working-with-rails
 
