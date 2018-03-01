@@ -4,6 +4,7 @@ Andrea dice hola.
 
 Hi, I'm the living repository provided as companion material to the talk *“Tools, tools everywhere”*, so far delivered at:
 
+- *[Ruby User Group Berlin](http://http://berlin.onruby.de/topics/tools-tools-everywhere-572)* @ *LIQID Investments* (March 1st, 2018)
 - *[Ruby User Group Madrid](http://www.madridrb.com/topics/tools-tools-everywhere-573)* @ *Cabify* (January 4th, 2018)
 - *[Ruby User Group Hamburg](http://hamburg.onruby.de/topics/tools-tools-everywhere-571)* @ *mindmatters* (December 12th, 2017)
 
