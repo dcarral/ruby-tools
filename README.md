@@ -1,7 +1,5 @@
 # *“Tools, tools everywhere”*
 
-Andrea dice hola.
-
 Hi, I'm the living repository provided as companion material to the talk *“Tools, tools everywhere”*, so far delivered at:
 
 - *[Ruby User Group Berlin](http://http://berlin.onruby.de/topics/tools-tools-everywhere-572)* @ *LIQID Investments* (March 1st, 2018)
